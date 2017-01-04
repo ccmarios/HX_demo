@@ -1,0 +1,12 @@
+//
+//  PrefixHeader.pch
+//  HX_demo
+//
+//  Created by XX on 16/12/30.
+//  Copyright © 2016年 XX. All rights reserved.
+//
+
+#ifdef __OBJC__
+#import <UIKit/UIKit.h>
+
+#endif
